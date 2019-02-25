@@ -1,0 +1,19 @@
+{
+  "name": "chatbot-facebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixHdezz/bot-facebook-messenger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixHdezz/bot-facebook-messenger/issues"
+  },
+  "homepage": "https://github.com/felixHdezz/bot-facebook-messenger#readme"
+}

@@ -1,0 +1,30 @@
+[23:27:8] caller-id was not present
+[23:27:8] Runing server...
+[23:27:8] listening to restify http://[::]:3202
+[23:27:8] Connected to mongo
+[23:21:44] caller-id was not present
+[23:21:44] Running server...
+[23:21:44] listening to restify http://[::]:3202
+[23:21:44] Connected to mongo
+[16:6:42] caller-id was not present
+[16:6:42] Running server...
+[16:6:42] listening to restify http://[::]:3202
+[16:6:42] Connected to mongo
+ERROR: ChatConnector: receive - invalid token. Check bot's app ID & Password.
+ERROR: ChatConnector: receive - invalid token. Check bot's app ID & Password.
+ERROR: ChatConnector: receive - invalid token. Check bot's app ID & Password.
+ERROR: ChatConnector: receive - invalid token. Check bot's app ID & Password.
+ERROR: ChatConnector: receive - invalid token. Check bot's app ID & Password.
+ERROR: ChatConnector: receive - invalid token. Check bot's app ID & Password.
+ERROR: ChatConnector: receive - invalid token. Check bot's app ID & Password.
+ERROR: ChatConnector: receive - invalid token. Check bot's app ID & Password.
+ERROR: ChatConnector: receive - invalid token. Check bot's app ID & Password.
+ERROR: ChatConnector: receive - invalid token. Check bot's app ID & Password.
+[17:2:52] caller-id was not present
+[17:2:52] Running server...
+[17:2:52] listening to restify http://[::]:3202
+[17:2:52] Connected to mongo
+[17:3:11] caller-id was not present
+[17:3:11] Running server...
+[17:3:11] listening to restify http://[::]:3202
+[17:3:11] Connected to mongo

@@ -1,0 +1,19 @@
+{
+  "name": "chatbot-twitter",
+  "version": "1.0.0",
+  "description": "proyecto chatbot para la plataforma de twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixHdezz/twitter-chatbot-api.git"
+  },
+  "author": "Felix Hernandez Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixHdezz/twitter-chatbot-api/issues"
+  },
+  "homepage": "https://github.com/felixHdezz/twitter-chatbot-api#readme"
+}
